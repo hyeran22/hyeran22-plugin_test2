@@ -976,15 +976,8 @@
       "default.semantic.warning": "S:9a1d2afa25e5ae207e75f1489d1124f38cf143b3,"
     },
     "selectedTokenSets": {
-      "01_ssg/default": "disabled",
-      "01_ssg/button": "disabled",
       "02_emart/default": "enabled",
-      "03_site": "disabled",
-      "04_delivery": "enabled",
-      "05_service": "disabled",
-      "06_promotion": "disabled",
-      "07_payment": "disabled",
-      "01_ssg/content": "disabled"
+      "04_delivery": "enabled"
     },
     "group": "mall"
   },
@@ -995,13 +988,8 @@
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
       "01_ssg/button": "enabled",
-      "02_emart/default": "disabled",
       "03_site": "enabled",
-      "04_delivery": "enabled",
-      "05_service": "disabled",
-      "06_promotion": "disabled",
-      "07_payment": "disabled",
-      "01_ssg/content": "disabled"
+      "04_delivery": "enabled"
     },
     "group": "mall"
   },
@@ -1012,13 +1000,8 @@
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
       "01_ssg/button": "enabled",
-      "02_emart/default": "disabled",
       "03_site": "enabled",
-      "04_delivery": "enabled",
-      "05_service": "disabled",
-      "06_promotion": "disabled",
-      "07_payment": "disabled",
-      "01_ssg/content": "disabled"
+      "04_delivery": "enabled"
     },
     "group": "mall"
   },
@@ -1029,13 +1012,7 @@
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
       "01_ssg/button": "enabled",
-      "02_emart/default": "disabled",
-      "03_site": "disabled",
-      "04_delivery": "disabled",
-      "05_service": "enabled",
-      "06_promotion": "disabled",
-      "07_payment": "disabled",
-      "01_ssg/content": "disabled"
+      "05_service": "enabled"
     },
     "group": "service"
   },
@@ -1046,13 +1023,7 @@
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
       "01_ssg/button": "enabled",
-      "02_emart/default": "disabled",
-      "03_site": "disabled",
-      "04_delivery": "disabled",
-      "05_service": "enabled",
-      "06_promotion": "disabled",
-      "07_payment": "disabled",
-      "01_ssg/content": "disabled"
+      "05_service": "enabled"
     },
     "group": "service"
   }

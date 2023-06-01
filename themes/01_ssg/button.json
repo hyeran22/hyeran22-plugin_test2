@@ -307,7 +307,7 @@
       }
     }
   },
-  "ssg": {
+  "01_ssg": {
     "button": {
       "solid_button": {
         "gray": {
@@ -711,7 +711,9 @@
           }
         }
       }
-    },
+    }
+  },
+  "ssg": {
     "solid_button": {
       "medium": {
         "2xs": {
