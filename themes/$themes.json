@@ -721,9 +721,9 @@
       "01_ssg.semantic.success": "S:d4d995f8ae07f341a6e7d7cf0ddb162020f9e828,"
     },
     "selectedTokenSets": {
-      "01_ssg/ssg": "enabled",
-      "01_ssg/button": "enabled",
-      "common/04_delivery": "enabled"
+      "common/04_delivery": "enabled",
+      "ssg/01_ssg": "enabled",
+      "ssg/01_button": "enabled"
     },
     "group": "mall"
   },
@@ -975,8 +975,8 @@
       "default.semantic.warning": "S:9a1d2afa25e5ae207e75f1489d1124f38cf143b3,"
     },
     "selectedTokenSets": {
-      "02_emart/emart": "enabled",
-      "common/04_delivery": "enabled"
+      "common/04_delivery": "enabled",
+      "emart/02_emart": "enabled"
     },
     "group": "mall"
   },
@@ -985,10 +985,10 @@
     "name": "shinsegaemall",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "01_ssg/ssg": "enabled",
-      "01_ssg/button": "enabled",
       "common/03_site": "enabled",
-      "common/04_delivery": "enabled"
+      "common/04_delivery": "enabled",
+      "ssg/01_ssg": "enabled",
+      "ssg/01_button": "enabled"
     },
     "group": "mall"
   },
@@ -997,10 +997,10 @@
     "name": "department",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "01_ssg/ssg": "enabled",
-      "01_ssg/button": "enabled",
       "common/03_site": "enabled",
-      "common/04_delivery": "enabled"
+      "common/04_delivery": "enabled",
+      "ssg/01_ssg": "enabled",
+      "ssg/01_button": "enabled"
     },
     "group": "mall"
   },
@@ -1009,9 +1009,9 @@
     "name": "universeclub",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "01_ssg/ssg": "enabled",
-      "01_ssg/button": "enabled",
-      "common/05_service": "enabled"
+      "common/05_service": "enabled",
+      "ssg/01_ssg": "enabled",
+      "ssg/01_button": "enabled"
     },
     "group": "service"
   },
@@ -1020,9 +1020,9 @@
     "name": "present",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "01_ssg/ssg": "enabled",
-      "01_ssg/button": "enabled",
-      "common/05_service": "enabled"
+      "common/05_service": "enabled",
+      "ssg/01_ssg": "enabled",
+      "ssg/01_button": "enabled"
     },
     "group": "service"
   }
