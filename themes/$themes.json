@@ -723,12 +723,7 @@
     "selectedTokenSets": {
       "01_ssg/ssg": "enabled",
       "01_ssg/button": "enabled",
-      "02_emart/emart": "disabled",
-      "common/03_site": "disabled",
-      "common/04_delivery": "enabled",
-      "common/05_service": "disabled",
-      "common/06_promotion": "disabled",
-      "common/07_payment": "disabled"
+      "common/04_delivery": "enabled"
     },
     "group": "mall"
   },
@@ -980,14 +975,8 @@
       "default.semantic.warning": "S:9a1d2afa25e5ae207e75f1489d1124f38cf143b3,"
     },
     "selectedTokenSets": {
-      "01_ssg/ssg": "disabled",
-      "01_ssg/button": "disabled",
       "02_emart/emart": "enabled",
-      "common/03_site": "disabled",
-      "common/04_delivery": "enabled",
-      "common/05_service": "disabled",
-      "common/06_promotion": "disabled",
-      "common/07_payment": "disabled"
+      "common/04_delivery": "enabled"
     },
     "group": "mall"
   },
@@ -998,12 +987,8 @@
     "selectedTokenSets": {
       "01_ssg/ssg": "enabled",
       "01_ssg/button": "enabled",
-      "02_emart/emart": "disabled",
       "common/03_site": "enabled",
-      "common/04_delivery": "enabled",
-      "common/05_service": "disabled",
-      "common/06_promotion": "disabled",
-      "common/07_payment": "disabled"
+      "common/04_delivery": "enabled"
     },
     "group": "mall"
   },
@@ -1014,12 +999,8 @@
     "selectedTokenSets": {
       "01_ssg/ssg": "enabled",
       "01_ssg/button": "enabled",
-      "02_emart/emart": "disabled",
       "common/03_site": "enabled",
-      "common/04_delivery": "enabled",
-      "common/05_service": "disabled",
-      "common/06_promotion": "disabled",
-      "common/07_payment": "disabled"
+      "common/04_delivery": "enabled"
     },
     "group": "mall"
   },
@@ -1030,12 +1011,7 @@
     "selectedTokenSets": {
       "01_ssg/ssg": "enabled",
       "01_ssg/button": "enabled",
-      "02_emart/emart": "disabled",
-      "common/03_site": "disabled",
-      "common/04_delivery": "disabled",
-      "common/05_service": "enabled",
-      "common/06_promotion": "disabled",
-      "common/07_payment": "disabled"
+      "common/05_service": "enabled"
     },
     "group": "service"
   },
@@ -1046,12 +1022,7 @@
     "selectedTokenSets": {
       "01_ssg/ssg": "enabled",
       "01_ssg/button": "enabled",
-      "02_emart/emart": "disabled",
-      "common/03_site": "disabled",
-      "common/04_delivery": "disabled",
-      "common/05_service": "enabled",
-      "common/06_promotion": "disabled",
-      "common/07_payment": "disabled"
+      "common/05_service": "enabled"
     },
     "group": "service"
   }
