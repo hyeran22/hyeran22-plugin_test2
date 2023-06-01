@@ -2,9 +2,6 @@
   {
     "id": "b1ba454ac69f35b98fc73503297f449497d7764d",
     "name": "ssg",
-    "selectedTokenSets": {
-      "01_ssg": "enabled"
-    },
     "$figmaStyleReferences": {
       "button.ouline.primary.1": "S:037da6285362925443a1831a1a982a0b219a409f,",
       "button.solid.primary.1.default": "S:750c934775acf223e9dbbad8aba8c65c3db3c0c7,",
@@ -722,14 +719,16 @@
       "01_ssg.semantic.warning_loss": "S:6a6453377a8f8a4dc141f31196bc0dd4c5aa1524,",
       "01_ssg.semantic.positive": "S:9345c694b236276daa5bf3f4fc6681335e400d99,",
       "01_ssg.semantic.success": "S:d4d995f8ae07f341a6e7d7cf0ddb162020f9e828,"
-    }
+    },
+    "selectedTokenSets": {
+      "01_ssg": "enabled",
+      "┖ ssg button": "enabled"
+    },
+    "group": "mall"
   },
   {
     "id": "249f6baf7a755dce2740917d6d725703daf612f2",
-    "name": "emart",
-    "selectedTokenSets": {
-      "02_emart": "enabled"
-    },
+    "name": "emartmall",
     "$figmaStyleReferences": {
       "boxbutton_solid.primary_1.fill.default": "S:15eb103003b9f2b68402952747dab1d6ecc7c6ed,",
       "boxbutton_solid.primary_2.fill.default": "S:690045acdedb47a636cf8d3156b4eb0b5b3d8361,",
@@ -973,6 +972,59 @@
       "content.headline.01": "S:51ecb07b7b405b17f8e9790bf54e82bdd695b409,",
       "content.headline.02": "S:726f7fd752f7652de2fd9ab19ba808dde4d0c0b5,",
       "default.semantic.warning": "S:9a1d2afa25e5ae207e75f1489d1124f38cf143b3,"
-    }
+    },
+    "selectedTokenSets": {
+      "02_emart": "enabled"
+    },
+    "group": "mall"
+  },
+  {
+    "id": "ae94825f8658fd976274d9926d4670565ef03605",
+    "name": "shinsegaemall",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "01_ssg": "enabled",
+      "03_mall": "enabled",
+      "┖ ssg button": "enabled"
+    },
+    "group": "mall"
+  },
+  {
+    "id": "ebebbe0f26537a342f77ff2d44ae3f48df89f26b",
+    "name": "department",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "01_ssg": "enabled",
+      "03_mall": "enabled",
+      "┖ ssg button": "enabled"
+    },
+    "group": "mall"
+  },
+  {
+    "id": "2a0f999a7308aa4fdcdd5b91b05fe7f4460c56c2",
+    "name": "delivery",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "04_delivery": "enabled"
+    },
+    "group": "delivery"
+  },
+  {
+    "id": "98d04d41c5dc445061e5760af66daddc16f8b7ca",
+    "name": "universeclub",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "05_service": "enabled"
+    },
+    "group": "service"
+  },
+  {
+    "id": "7a85ad96eee06fa89cc996c8b22dd8c70caed1fd",
+    "name": "present",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "05_service": "enabled"
+    },
+    "group": "service"
   }
 ]
