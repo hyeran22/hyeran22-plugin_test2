@@ -721,9 +721,10 @@
       "01_ssg.semantic.success": "S:d4d995f8ae07f341a6e7d7cf0ddb162020f9e828,"
     },
     "selectedTokenSets": {
-      "common/04_delivery": "enabled",
-      "ssg/01_ssg": "enabled",
-      "ssg/01_button": "enabled"
+      "01_ssg/default": "enabled",
+      "01_ssg/button": "enabled",
+      "04_delivery": "enabled",
+      "01_ssg/content": "enabled"
     },
     "group": "mall"
   },
@@ -975,8 +976,15 @@
       "default.semantic.warning": "S:9a1d2afa25e5ae207e75f1489d1124f38cf143b3,"
     },
     "selectedTokenSets": {
-      "common/04_delivery": "enabled",
-      "emart/02_emart": "enabled"
+      "01_ssg/default": "disabled",
+      "01_ssg/button": "disabled",
+      "02_emart/default": "enabled",
+      "03_site": "disabled",
+      "04_delivery": "enabled",
+      "05_service": "disabled",
+      "06_promotion": "disabled",
+      "07_payment": "disabled",
+      "01_ssg/content": "disabled"
     },
     "group": "mall"
   },
@@ -985,10 +993,15 @@
     "name": "shinsegaemall",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/03_site": "enabled",
-      "common/04_delivery": "enabled",
-      "ssg/01_ssg": "enabled",
-      "ssg/01_button": "enabled"
+      "01_ssg/default": "enabled",
+      "01_ssg/button": "enabled",
+      "02_emart/default": "disabled",
+      "03_site": "enabled",
+      "04_delivery": "enabled",
+      "05_service": "disabled",
+      "06_promotion": "disabled",
+      "07_payment": "disabled",
+      "01_ssg/content": "disabled"
     },
     "group": "mall"
   },
@@ -997,10 +1010,15 @@
     "name": "department",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/03_site": "enabled",
-      "common/04_delivery": "enabled",
-      "ssg/01_ssg": "enabled",
-      "ssg/01_button": "enabled"
+      "01_ssg/default": "enabled",
+      "01_ssg/button": "enabled",
+      "02_emart/default": "disabled",
+      "03_site": "enabled",
+      "04_delivery": "enabled",
+      "05_service": "disabled",
+      "06_promotion": "disabled",
+      "07_payment": "disabled",
+      "01_ssg/content": "disabled"
     },
     "group": "mall"
   },
@@ -1009,9 +1027,15 @@
     "name": "universeclub",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/05_service": "enabled",
-      "ssg/01_ssg": "enabled",
-      "ssg/01_button": "enabled"
+      "01_ssg/default": "enabled",
+      "01_ssg/button": "enabled",
+      "02_emart/default": "disabled",
+      "03_site": "disabled",
+      "04_delivery": "disabled",
+      "05_service": "enabled",
+      "06_promotion": "disabled",
+      "07_payment": "disabled",
+      "01_ssg/content": "disabled"
     },
     "group": "service"
   },
@@ -1020,9 +1044,15 @@
     "name": "present",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "common/05_service": "enabled",
-      "ssg/01_ssg": "enabled",
-      "ssg/01_button": "enabled"
+      "01_ssg/default": "enabled",
+      "01_ssg/button": "enabled",
+      "02_emart/default": "disabled",
+      "03_site": "disabled",
+      "04_delivery": "disabled",
+      "05_service": "enabled",
+      "06_promotion": "disabled",
+      "07_payment": "disabled",
+      "01_ssg/content": "disabled"
     },
     "group": "service"
   }
