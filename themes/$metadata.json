@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "01_ssg",
-    "┖ ssg button",
+    "01_ssg/01_ssg",
+    "01_ssg/┖ ssg button",
     "02_emart",
     "03_mall",
     "04_delivery",
