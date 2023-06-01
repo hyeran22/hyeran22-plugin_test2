@@ -325,7 +325,7 @@
         "value": {
           "height": "{button_height.2xs}",
           "horizontalPadding": "{button.horizontal.2xs}",
-          "borderRadius": "{ssg.button.round.2xs}"
+          "borderRadius": "{ssg_button.round.2xs}"
         },
         "type": "composition"
       },
@@ -333,7 +333,7 @@
         "value": {
           "height": "{button_height.xs}",
           "horizontalPadding": "{button.horizontal.xs}",
-          "borderRadius": "{ssg.button.round.xs}"
+          "borderRadius": "{ssg_button.round.xs}"
         },
         "type": "composition"
       },
@@ -341,7 +341,7 @@
         "value": {
           "height": "{button_height.sm}",
           "horizontalPadding": "{button.horizontal.sm}",
-          "borderRadius": "{ssg.button.round.sm}"
+          "borderRadius": "{ssg_button.round.sm}"
         },
         "type": "composition"
       },
@@ -349,7 +349,7 @@
         "value": {
           "height": "{button_height.md}",
           "horizontalPadding": "{button.horizontal.md}",
-          "borderRadius": "{ssg.button.round.md}"
+          "borderRadius": "{ssg_button.round.md}"
         },
         "type": "composition"
       },
@@ -357,7 +357,7 @@
         "value": {
           "height": "{button_height.lg}",
           "horizontalPadding": "{button.horizontal.lg}",
-          "borderRadius": "{ssg.button.round.lg}"
+          "borderRadius": "{ssg_button.round.lg}"
         },
         "type": "composition"
       },
@@ -365,7 +365,7 @@
         "value": {
           "height": "{button_height.xl}",
           "horizontalPadding": "{button.horizontal.xl}",
-          "borderRadius": "{ssg.button.round.xl}"
+          "borderRadius": "{ssg_button.round.xl}"
         },
         "type": "composition"
       },
@@ -373,7 +373,7 @@
         "value": {
           "height": "{button_height.2xl}",
           "horizontalPadding": "{button.horizontal.2xl}",
-          "borderRadius": "{ssg.button.round.2xl}"
+          "borderRadius": "{ssg_button.round.2xl}"
         },
         "type": "composition"
       },
@@ -381,7 +381,7 @@
         "value": {
           "height": "{button_height.3xl}",
           "horizontalPadding": "{button.horizontal.3xl}",
-          "borderRadius": "{ssg.button.round.3xl}"
+          "borderRadius": "{ssg_button.round.3xl}"
         },
         "type": "composition"
       }
@@ -391,7 +391,7 @@
         "value": {
           "height": "{button_height.2xs}",
           "horizontalPadding": "{button.horizontal.2xs}",
-          "borderRadius": "{ssg.button.oval.2xs}"
+          "borderRadius": "{ssg_button.oval.2xs}"
         },
         "type": "composition"
       },
@@ -399,7 +399,7 @@
         "value": {
           "height": "{button_height.xs}",
           "horizontalPadding": "{button.horizontal.xs}",
-          "borderRadius": "{ssg.button.oval.xs}"
+          "borderRadius": "{ssg_button.oval.xs}"
         },
         "type": "composition"
       },
@@ -407,7 +407,7 @@
         "value": {
           "height": "{button_height.sm}",
           "horizontalPadding": "{button.horizontal.sm}",
-          "borderRadius": "{ssg.button.oval.sm}"
+          "borderRadius": "{ssg_button.oval.sm}"
         },
         "type": "composition"
       },
@@ -415,7 +415,7 @@
         "value": {
           "height": "{button_height.md}",
           "horizontalPadding": "{button.horizontal.md}",
-          "borderRadius": "{ssg.button.oval.md}"
+          "borderRadius": "{ssg_button.oval.md}"
         },
         "type": "composition"
       },
@@ -423,7 +423,7 @@
         "value": {
           "height": "{button_height.lg}",
           "horizontalPadding": "{button.horizontal.lg}",
-          "borderRadius": "{ssg.button.oval.lg}"
+          "borderRadius": "{ssg_button.oval.lg}"
         },
         "type": "composition"
       },
@@ -431,7 +431,7 @@
         "value": {
           "height": "{button_height.xl}",
           "horizontalPadding": "{button.horizontal.xl}",
-          "borderRadius": "{ssg.button.oval.xl}"
+          "borderRadius": "{ssg_button.oval.xl}"
         },
         "type": "composition"
       },
@@ -439,7 +439,7 @@
         "value": {
           "height": "{button_height.2xl}",
           "horizontalPadding": "{button.horizontal.2xl}",
-          "borderRadius": "{ssg.button.oval.2xl}"
+          "borderRadius": "{ssg_button.oval.2xl}"
         },
         "type": "composition"
       },
@@ -447,7 +447,7 @@
         "value": {
           "height": "{button_height.3xl}",
           "horizontalPadding": "{button.horizontal.3xl}",
-          "borderRadius": "{ssg.button.oval.3xl}"
+          "borderRadius": "{ssg_button.oval.3xl}"
         },
         "type": "composition"
       }
@@ -831,7 +831,7 @@
         "value": {
           "sizing": "{button_height.2xs}",
           "spacing": "{button.spacing.2xs}",
-          "borderRadius": "{ssg.button.round.2xs}"
+          "borderRadius": "{ssg_button.round.2xs}"
         },
         "type": "composition"
       },
@@ -839,7 +839,7 @@
         "value": {
           "sizing": "{button_height.xs}",
           "spacing": "{button.spacing.xs}",
-          "borderRadius": "{ssg.button.round.xs}"
+          "borderRadius": "{ssg_button.round.xs}"
         },
         "type": "composition"
       },
@@ -847,7 +847,7 @@
         "value": {
           "sizing": "{button_height.sm}",
           "spacing": "{button.spacing.sm}",
-          "borderRadius": "{ssg.button.round.sm}"
+          "borderRadius": "{ssg_button.round.sm}"
         },
         "type": "composition"
       },
@@ -855,7 +855,7 @@
         "value": {
           "sizing": "{button_height.md}",
           "spacing": "{button.spacing.md}",
-          "borderRadius": "{ssg.button.round.md}"
+          "borderRadius": "{ssg_button.round.md}"
         },
         "type": "composition"
       },
@@ -863,7 +863,7 @@
         "value": {
           "sizing": "{button_height.lg}",
           "spacing": "{button.spacing.lg}",
-          "borderRadius": "{ssg.button.round.lg}"
+          "borderRadius": "{ssg_button.round.lg}"
         },
         "type": "composition"
       },
@@ -871,7 +871,7 @@
         "value": {
           "sizing": "{button_height.xl}",
           "spacing": "{button.spacing.xl}",
-          "borderRadius": "{ssg.button.round.xl}"
+          "borderRadius": "{ssg_button.round.xl}"
         },
         "type": "composition"
       },
@@ -879,7 +879,7 @@
         "value": {
           "sizing": "{button_height.2xl}",
           "spacing": "{button.spacing.2xl}",
-          "borderRadius": "{ssg.button.round.2xl}"
+          "borderRadius": "{ssg_button.round.2xl}"
         },
         "type": "composition"
       }
@@ -889,7 +889,7 @@
         "value": {
           "sizing": "{button_height.2xs}",
           "spacing": "{button.spacing.2xs}",
-          "borderRadius": "{ssg.button.oval.2xs}"
+          "borderRadius": "{ssg_button.oval.2xs}"
         },
         "type": "composition"
       },
@@ -897,7 +897,7 @@
         "value": {
           "sizing": "{button_height.xs}",
           "spacing": "{button.spacing.xs}",
-          "borderRadius": "{ssg.button.oval.xs}"
+          "borderRadius": "{ssg_button.oval.xs}"
         },
         "type": "composition"
       },
@@ -905,7 +905,7 @@
         "value": {
           "sizing": "{button_height.sm}",
           "spacing": "{button.spacing.sm}",
-          "borderRadius": "{ssg.button.oval.sm}"
+          "borderRadius": "{ssg_button.oval.sm}"
         },
         "type": "composition"
       },
@@ -913,7 +913,7 @@
         "value": {
           "sizing": "{button_height.md}",
           "spacing": "{button.spacing.md}",
-          "borderRadius": "{ssg.button.oval.md}"
+          "borderRadius": "{ssg_button.oval.md}"
         },
         "type": "composition"
       },
@@ -921,7 +921,7 @@
         "value": {
           "sizing": "{button_height.lg}",
           "spacing": "{button.spacing.lg}",
-          "borderRadius": "{ssg.button.oval.lg}"
+          "borderRadius": "{ssg_button.oval.lg}"
         },
         "type": "composition"
       },
@@ -929,7 +929,7 @@
         "value": {
           "sizing": "{button_height.xl}",
           "spacing": "{button.spacing.xl}",
-          "borderRadius": "{ssg.button.oval.xl}"
+          "borderRadius": "{ssg_button.oval.xl}"
         },
         "type": "composition"
       },
@@ -937,7 +937,7 @@
         "value": {
           "sizing": "{button_height.2xl}",
           "spacing": "{button.spacing.2xl}",
-          "borderRadius": "{ssg.button.oval.2xl}"
+          "borderRadius": "{ssg_button.oval.2xl}"
         },
         "type": "composition"
       }
