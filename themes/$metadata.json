@@ -1,12 +1,12 @@
 {
   "tokenSetOrder": [
-    "01_ssg/01_ssg",
-    "01_ssg/┖ ssg button",
-    "02_emart",
-    "03_mall",
-    "04_delivery",
-    "05_service",
-    "06_promotion",
-    "07_payment"
+    "ssg/ssg",
+    "ssg/button",
+    "emart/emart",
+    "common/site",
+    "common/delivery",
+    "common/service",
+    "common/promotion",
+    "common/payment"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "03_mall": {
+  "03_site": {
     "shinsegaemall_primary": {
       "value": "#f12e24",
       "type": "color",
@@ -40,7 +40,7 @@
       "type": "color",
       "description": "- 스타필드"
     },
-    "그룹사관(개발등록x)": {
+    "brand(개발등록x)": {
       "chicor_primary": {
         "value": "linear-gradient(180deg, #e9450c 0%, #ffd700 50%, #df0082 100%)",
         "type": "color",
