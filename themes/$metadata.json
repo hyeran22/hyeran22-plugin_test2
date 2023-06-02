@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
+    "01_ssg/default",
     "01_ssg/button",
     "01_ssg/content",
-    "01_ssg/default",
     "02_emart/default",
     "03_site",
     "04_delivery",
