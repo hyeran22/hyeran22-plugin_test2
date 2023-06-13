@@ -5,6 +5,11 @@
       "type": "color",
       "description": "- 신세계몰"
     },
+    "shinsegaemall_secondary": {
+      "value": "#000000",
+      "type": "color",
+      "description": "- 신세계몰"
+    },
     "department_primary": {
       "value": "#6a6b6d",
       "type": "color",
