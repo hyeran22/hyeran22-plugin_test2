@@ -1,5 +1,10 @@
 {
   "03_site": {
+    "emart_primary": {
+      "value": "#ffd040",
+      "type": "color",
+      "description": "- 구이마트몰(배송컬러x)\n- 사용불가"
+    },
     "shinsegaemall_primary": {
       "value": "#f12e24",
       "type": "color",
@@ -87,11 +92,6 @@
       }
     },
     "삭제예정": {
-      "emart_primary": {
-        "value": "#ffd040",
-        "type": "color",
-        "description": "- 구이마트몰(배송컬러x)\n- 사용불가"
-      },
       "emart_secondary1": {
         "value": "#ff6a26",
         "type": "color",
