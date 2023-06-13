@@ -16,27 +16,17 @@
       "description": "- 신세계몰"
     },
     "department_primary": {
-      "value": "#6a6b6d",
+      "value": "#A59357",
       "type": "color",
       "description": "- 신세계백화점"
     },
-    "department_secondary1": {
-      "value": "#7e8083",
-      "type": "color",
-      "description": "- 신세계백화점"
-    },
-    "department_secondary2": {
-      "value": "#a59357",
+    "department_secondary": {
+      "value": "#000000",
       "type": "color",
       "description": "- 신세계백화점"
     },
     "triip_primary": {
       "value": "#328ca8",
-      "type": "color",
-      "description": "- 여행"
-    },
-    "triip_secondary1": {
-      "value": "#2e3342",
       "type": "color",
       "description": "- 여행"
     },
@@ -49,47 +39,6 @@
       "value": "#b12536",
       "type": "color",
       "description": "- 스타필드"
-    },
-    "brand(개발등록x)": {
-      "chicor_primary": {
-        "value": "linear-gradient(180deg, #e9450c 0%, #ffd700 50%, #df0082 100%)",
-        "type": "color",
-        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
-      },
-      "chicor_secondary": {
-        "value": "#000000",
-        "type": "color",
-        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
-      },
-      "casamia_primary": {
-        "value": "#ffcf02",
-        "type": "color",
-        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
-      },
-      "tv_primary": {
-        "value": "linear-gradient(90deg, #ff329b 0%, #fc5653 59.9%, #ff9100 100%)",
-        "type": "color",
-        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
-      },
-      "sivillage_primary": {
-        "value": "#222222",
-        "type": "color",
-        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
-      },
-      "premiumoutlet_primary": {
-        "value": "#d9117c",
-        "type": "color",
-        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
-      },
-      "starbucks_primary": {
-        "value": "#006241",
-        "type": "color",
-        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
-      },
-      "starbucks_secondary": {
-        "value": "#1E3932",
-        "type": "color"
-      }
     },
     "삭제예정": {
       "emart_secondary1": {
@@ -131,6 +80,62 @@
         "value": "#f8e71c",
         "type": "color",
         "description": "- 새벽배송(배송컬러x)\n- 사용불가"
+      },
+      "department_secondary2": {
+        "value": "#7e8083",
+        "type": "color",
+        "description": "- 신세계백화점"
+      },
+      "department_secondary3": {
+        "value": "#a59357",
+        "type": "color",
+        "description": "- 신세계백화점"
+      }
+    },
+    "triip_secondary1": {
+      "value": "#2e3342",
+      "type": "color",
+      "description": "- 여행"
+    },
+    "brand(개발등록x)": {
+      "chicor_primary": {
+        "value": "linear-gradient(180deg, #e9450c 0%, #ffd700 50%, #df0082 100%)",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "chicor_secondary": {
+        "value": "#000000",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "casamia_primary": {
+        "value": "#ffcf02",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "tv_primary": {
+        "value": "linear-gradient(90deg, #ff329b 0%, #fc5653 59.9%, #ff9100 100%)",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "sivillage_primary": {
+        "value": "#222222",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "premiumoutlet_primary": {
+        "value": "#d9117c",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "starbucks_primary": {
+        "value": "#006241",
+        "type": "color",
+        "description": "공식브랜드관 > 그룹사관\n(유형구분 : https://projectwiki.ssgadm.com/pages/viewpage.action?pageId=96972680)"
+      },
+      "starbucks_secondary": {
+        "value": "#1E3932",
+        "type": "color"
       }
     }
   }
