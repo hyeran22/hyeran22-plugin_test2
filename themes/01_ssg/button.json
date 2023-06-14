@@ -398,7 +398,7 @@
         },
         "brand": {
           "bg": {
-            "value": "{01_ssg.accent.primary}",
+            "value": "{01_ssg.brand}",
             "type": "color"
           },
           "text": {
