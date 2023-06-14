@@ -30,6 +30,11 @@
       "type": "color",
       "description": "- 여행"
     },
+    "triip_secondary1": {
+      "value": "#2e3342",
+      "type": "color",
+      "description": "- 여행"
+    },
     "triip_secondary2": {
       "value": "#ff5b59",
       "type": "color",
@@ -106,11 +111,6 @@
         "type": "color",
         "description": "- 신세계백화점\n- 사용불가"
       }
-    },
-    "triip_secondary1": {
-      "value": "#2e3342",
-      "type": "color",
-      "description": "- 여행"
     },
     "brand(개발등록x)": {
       "chicor_primary": {

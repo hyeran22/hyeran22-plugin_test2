@@ -1,117 +1,117 @@
 {
-  "content": {
-    "headline": {
-      "24b": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.bold}",
-          "fontSize": "{fontsize.4xl}"
-        },
-        "type": "typography"
-      },
-      "20b": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.bold}",
-          "fontSize": "{fontsize.3xl}"
-        },
-        "type": "typography"
-      }
-    },
-    "subtitle": {
-      "18b": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.bold}",
-          "fontSize": "{fontsize.2xl}"
-        },
-        "type": "typography"
-      },
-      "16b": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.bold}",
-          "fontSize": "{fontsize.xl}"
-        },
-        "type": "typography"
-      },
-      "16m": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.medium}",
-          "fontSize": "{fontsize.xl}"
-        },
-        "type": "typography"
-      }
-    },
-    "body": {
-      "12b": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.bold}",
-          "fontSize": "{fontsize.xs}"
-        },
-        "type": "typography"
-      },
-      "12r": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.regular}",
-          "fontSize": "{fontsize.xs}"
-        },
-        "type": "typography"
-      },
-      "13b": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.bold}",
-          "fontSize": "{fontsize.sm}"
-        },
-        "type": "typography"
-      },
-      "13r": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.regular}",
-          "fontSize": "{fontsize.sm}"
-        },
-        "type": "typography"
-      },
-      "14b": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.bold}",
-          "fontSize": "{fontsize.md}"
-        },
-        "type": "typography"
-      },
-      "14r": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.regular}",
-          "fontSize": "{fontsize.md}"
-        },
-        "type": "typography"
-      },
-      "15b": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.bold}",
-          "fontSize": "{fontsize.lg}"
-        },
-        "type": "typography"
-      },
-      "15r": {
-        "value": {
-          "fontFamily": "{fontfamily.SSG comb}",
-          "fontWeight": "{fontweight.regular}",
-          "fontSize": "{fontsize.lg}"
-        },
-        "type": "typography"
-      }
-    }
-  },
   "02_emart": {
+    "content": {
+      "headline": {
+        "24b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.4xl}"
+          },
+          "type": "typography"
+        },
+        "20b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.3xl}"
+          },
+          "type": "typography"
+        }
+      },
+      "subtitle": {
+        "18b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.2xl}"
+          },
+          "type": "typography"
+        },
+        "16b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.xl}"
+          },
+          "type": "typography"
+        },
+        "16m": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.medium}",
+            "fontSize": "{fontsize.xl}"
+          },
+          "type": "typography"
+        }
+      },
+      "body": {
+        "12b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.xs}"
+          },
+          "type": "typography"
+        },
+        "12r": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.regular}",
+            "fontSize": "{fontsize.xs}"
+          },
+          "type": "typography"
+        },
+        "13b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.sm}"
+          },
+          "type": "typography"
+        },
+        "13r": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.regular}",
+            "fontSize": "{fontsize.sm}"
+          },
+          "type": "typography"
+        },
+        "14b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.md}"
+          },
+          "type": "typography"
+        },
+        "14r": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.regular}",
+            "fontSize": "{fontsize.md}"
+          },
+          "type": "typography"
+        },
+        "15b": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.bold}",
+            "fontSize": "{fontsize.lg}"
+          },
+          "type": "typography"
+        },
+        "15r": {
+          "value": {
+            "fontFamily": "{fontfamily.SSG comb}",
+            "fontWeight": "{fontweight.regular}",
+            "fontSize": "{fontsize.lg}"
+          },
+          "type": "typography"
+        }
+      }
+    },
     "headline": {
       "02": {
         "value": "{02_emart.netural.black}",
