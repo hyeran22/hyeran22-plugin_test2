@@ -41,6 +41,21 @@
       "description": "- 스타필드"
     },
     "삭제예정": {
+      "ssg_primary": {
+        "value": "#ff3e3e",
+        "type": "color",
+        "description": "- 사용불가"
+      },
+      "ssg_secondary1": {
+        "value": "#000000",
+        "type": "color",
+        "description": "- 사용불가"
+      },
+      "ssg_secondary2": {
+        "value": "#6841ff",
+        "type": "color",
+        "description": "- 사용불가"
+      },
       "emart_secondary1": {
         "value": "#ff6a26",
         "type": "color",
@@ -84,12 +99,12 @@
       "department_secondary2": {
         "value": "#7e8083",
         "type": "color",
-        "description": "- 신세계백화점"
+        "description": "- 신세계백화점\n- 사용불가"
       },
       "department_secondary3": {
         "value": "#a59357",
         "type": "color",
-        "description": "- 신세계백화점"
+        "description": "- 신세계백화점\n- 사용불가"
       }
     },
     "triip_secondary1": {
