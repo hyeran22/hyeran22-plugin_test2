@@ -2,15 +2,15 @@
   "01_ssg": {
     "content": {
       "headline": {
-        "02": {
-          "value": "{01_ssg.netural.black}",
-          "type": "color",
-          "description": "- 제일 중요한 내용\nex) 상품모듈 가격, 구조개선 퀵링크 텍스트"
-        },
-        "01": {
+        "1": {
           "value": "{01_ssg.netural.gray900}",
           "type": "color",
           "description": "- 기본 헤드라인 컬러"
+        },
+        "2": {
+          "value": "{01_ssg.netural.black}",
+          "type": "color",
+          "description": "- 제일 중요한 내용\nex) 상품모듈 가격, 구조개선 퀵링크 텍스트"
         },
         "24b": {
           "value": {

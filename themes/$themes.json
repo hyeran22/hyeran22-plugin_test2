@@ -720,8 +720,6 @@
       "01_ssg.semantic.positive": "S:ef1dfd92ca4b4c36a2b063722e09250c433b6f53,",
       "01_ssg.semantic.success": "S:116f1f0b1e60c48c8f8d0cfb807f57c158ecf465,",
       "01_ssg.brand": "S:6ccac8320d793b2c2c42b09c6ba2ac8b8af9f15b,",
-      "01_ssg.content.headline.02": "S:cad857a5ae41a2cb9b162a84be92677f006693a1,",
-      "01_ssg.content.headline.01": "S:6fe3ebaafec0a2e28ec8fe8d136747230fc977ce,",
       "01_ssg.content.subtitle.1": "S:bea04aca036ba5ee606882fbe20659ab8f8d39fa,",
       "01_ssg.content.body.1": "S:63ee15933680fdd32d5b30269c02793a785d359c,",
       "01_ssg.content.body.2": "S:e2568582f2d69d812b5b12c3c94a339e032d7bb7,",
@@ -833,7 +831,9 @@
       "04_delivery.depart_today": "S:e54720561833288e40a8c397b1fb35b7f80cd598,",
       "04_delivery.mobilecoupon": "S:587dcf6412e2ae6540c54eeace4593466569aa5f,",
       "04_delivery.pickup_emart": "S:6943c3359824f033a7b32ac8fb3ad28be2c7484b,",
-      "04_delivery.pickup_department": "S:e5adc275201b139902c18a2b55c3c9d595a61a2c,"
+      "04_delivery.pickup_department": "S:e5adc275201b139902c18a2b55c3c9d595a61a2c,",
+      "01_ssg.content.headline.2": "S:cad857a5ae41a2cb9b162a84be92677f006693a1,",
+      "01_ssg.content.headline.1": "S:6fe3ebaafec0a2e28ec8fe8d136747230fc977ce,"
     },
     "selectedTokenSets": {
       "01_ssg/default": "enabled",
