@@ -864,15 +864,27 @@
       "type": "color"
     },
     "accent": {
+      "primary_light": {
+        "value": "#FFEBE9",
+        "type": "color"
+      },
       "primary": {
         "value": "#FF3B20",
         "type": "color",
         "description": "1. 정보강조\n- 제일 강조하고자 하는 정보\n- 결정적인 행동을 유도하는 CTA 버튼\n- 강조 효과가 필요한 알림이나 라벨, 뱃지에 포인트\n\n2. 선택된 상태"
       },
+      "secondary1_light": {
+        "value": "#E6EBFE",
+        "type": "color"
+      },
       "secondary1": {
         "value": "#0038F0",
         "type": "color",
         "description": "-  정보강조 : Primary 컬러 다음으로 우선순위에 적용"
+      },
+      "secondary2_light": {
+        "value": "#E7F5EF",
+        "type": "color"
       },
       "secondary2": {
         "value": "#0B9B5B",
