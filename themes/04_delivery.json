@@ -70,6 +70,11 @@
       "type": "color",
       "description": "- 오늘출발\n"
     },
+    "depart_today_light": {
+      "value": "#F5EDFF",
+      "type": "color",
+      "description": "- 오늘출발\n"
+    },
     "mobilecoupon": {
       "value": "#50e3c2",
       "type": "color",
